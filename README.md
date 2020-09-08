@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm [CyanSalt](https://github.com/CyanSalt/)
 
 <!--
 **CyanSalt/CyanSalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=CyanSalt&hide_title=true)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=CyanSalt.CyanSalt)
+
+![GitWar Score](https://gitwar.herokuapp.com/badge?username=CyanSalt&style=for-the-badge)
+
+![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact)
