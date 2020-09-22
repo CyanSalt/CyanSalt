@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=CyanSalt.CyanSalt)
+### Glad to see you here!
 
 ![GitWar Score](https://gitwar.herokuapp.com/badge?username=CyanSalt&style=for-the-badge)
 
