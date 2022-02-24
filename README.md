@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ### Glad to see you here!
 
-![GitWar Score](https://gitwar.herokuapp.com/badge?username=CyanSalt&style=for-the-badge)
-
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact)
