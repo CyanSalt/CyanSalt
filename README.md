@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact)
+
+[My Scrapbook (in Chinese)](https://scrapbook-cyansalt.vercel.app)
