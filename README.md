@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Glad to see you here!
 
-![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true)
+![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact&theme=transparent)
 
 [My Scrapbook (in Chinese)](https://scrapbook-cyansalt.vercel.app)
