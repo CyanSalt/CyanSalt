@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact&theme=transparent)
 
-[About me](https://scrapbook-cyansalt.vercel.app)
+[About me](https://scrapbook-cyansalt.vercel.app/about-me)
 
 [My Scrapbook (in Chinese)](https://scrapbook-cyansalt.vercel.app)
