@@ -33,4 +33,4 @@ Glad to see you here!
 
 > I don't rely on this to survive. Go with the flow.
 
-[爱发电](https://afdian.com/a/cyansalt/plan)
+[爱发电](https://afdian.com/a/cyansalt)
