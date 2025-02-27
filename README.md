@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Glad to see you here!
+Glad to see you here!
+
+### Links
+
+[About me](https://scrapbook-cyansalt.vercel.app/about-me)
+
+[My Scrapbook (in Chinese)](https://scrapbook-cyansalt.vercel.app)
+
+### Stats
 
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact&theme=transparent)
 
-[About me](https://scrapbook-cyansalt.vercel.app/about-me)
+### Sponsoring me
 
-[My Scrapbook (in Chinese)](https://scrapbook-cyansalt.vercel.app)
+[爱发电](https://afdian.com/a/cyansalt/plan)
