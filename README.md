@@ -31,4 +31,6 @@ Glad to see you here!
 
 ### Sponsoring me
 
+> I don't rely on this to survive. Go with the flow.
+
 [爱发电](https://afdian.com/a/cyansalt/plan)
