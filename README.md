@@ -32,4 +32,4 @@ Glad to see you here!
 
 > I don't rely on this to survive. Go with the flow.
 
-[爱发电](https://afdian.com/a/cyansalt)
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-F6F8FA?style=for-the-badge&logo=GitHub-Sponsors)](https://afdian.com/a/cyansalt)
