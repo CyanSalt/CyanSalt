@@ -25,8 +25,8 @@ Glad to see you here!
 
 ### Stats
 
-![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanSalt&layout=compact&theme=transparent)
+![GitHub README Stats](https://github-stats-extended.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true&theme=transparent)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CyanSalt&layout=compact&theme=transparent)
 
 ### Sponsoring me
 
