@@ -25,6 +25,9 @@ Glad to see you here!
 
 ### Stats
 
+> [!NOTE]
+> Unless otherwise noted, projects under my name are designed and implemented by humans (rather than AI).
+
 ![GitHub README Stats](https://github-stats-extended.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true&theme=transparent)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CyanSalt&layout=compact&theme=transparent)
 
