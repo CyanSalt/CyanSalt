@@ -17,7 +17,13 @@ Here are some ideas to get you started:
 
 Glad to see you here!
 
-[Visit my website](https://cyansalt.github.io/)
+## Links
+
+[My Website](https://cyansalt.github.io/)
+
+[My Articles](https://cyansalt.github.io/posts)
+
+[My Projects](https://cyansalt.github.io/projects)
 
 ### Stats
 
