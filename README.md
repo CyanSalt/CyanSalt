@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 Glad to see you here!
 
-### Links
-
-[About me](https://scrapbook-cyansalt.vercel.app/about-me)
-
-[My Scrapbook (in Chinese)](https://scrapbook-cyansalt.vercel.app)
+[Visit my website](https://cyansalt.github.io/)
 
 ### Stats
 
@@ -30,9 +26,3 @@ Glad to see you here!
 
 ![GitHub README Stats](https://github-stats-extended.vercel.app/api?username=CyanSalt&show_icons=true&hide_title=true&theme=transparent)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=CyanSalt&layout=compact&theme=transparent)
-
-### Sponsoring me
-
-> I don't rely on this to survive. Go with the flow.
-
-[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-F6F8FA?style=for-the-badge&logo=GitHub-Sponsors)](https://afdian.com/a/cyansalt)
